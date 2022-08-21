@@ -1,19 +1,10 @@
-# Quartz
+# Fernando's Digital garden
 
-Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. Quartz features
-
-1. Extremely fast full-text search by pressing `Ctrl` + `k`
-2. Customizable and hackable design based on Hugo
-3. Automatically generated backlinks, link previews, and local graph
-4. Built-in CJK + Latex Support
-5. Support for both Markdown Links and Wikilinks
-
-Check out some of the [amazing gardens that community members](https://quartz.jzhao.xyz/notes/showcase/) have published with Quartz!
-
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+This project is based on the [jzhao quartz project](https://quartz.jzhao.xyz/)
+If you want to copy this see:
 
 🔗 Get Started: https://quartz.jzhao.xyz/
 
-![Quartz Example Screenshot](./screenshot.png)*Quartz Example Screenshot*
+🕵🏼‍♂️ You can find this site on: https://garden.feernandooff.com
 
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
+## Hoping to improve some of the basics styles and port this functionality to [Astro](https://astro.build)
