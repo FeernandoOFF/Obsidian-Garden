@@ -1,16 +1,10 @@
-
-
-<hr/>
+<hr />
 
 {{if $.Site.Data.config.enableFooter}}
 <div class="page-end" id="footer">
-    <div class="backlinks-container">
-        {{partial "backlinks.html" .}}
-    </div>
-    <div>
-        {{partial "graph.html" .}}
-    </div>
+  {{ if not .IsHome }}
+  <div class="backlinks-container">{{partial "backlinks.html" .}}</div>
+  {{ end }}
+  <div>{{partial "graph.html" .}}</div>
 </div>
-{{end}}
-
-{{partial "contact.html" .}}
+{{end}} {{partial "contact.html" .}}
