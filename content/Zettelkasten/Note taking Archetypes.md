@@ -1,6 +1,6 @@
 Sat (23)-07-2022-19:19
 Status: #idea #todo
-Tags: [[productivity]] [[second brain]] 
+Tags: [productivity](productivity.md) [second brain](second%20brain) 
 
 # Note taking Archetypes
 In this video [[Tiago Forte]] he explains that there are 3 types of Note taking Archetypes which are:
@@ -17,7 +17,7 @@ In this video [[Tiago Forte]] he explains that there are 3 types of Note taking 
 
 # Applications for each note taking archetype
 
-Gardener - [[Obsidian]]
+Gardener - [Obsidian](Obsidian.md)
 
 
 
