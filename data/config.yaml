@@ -14,9 +14,7 @@ enableGitHubEdit: false
 GitHubLink: https://github.com/jackyzha0/quartz/tree/hugo/content
 enableSemanticSearch: false
 operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
-description:
-  Host your second brain and digital garden for free. Quartz features extremely fast full-text search,
-  Wikilink support, backlinks, local graph, tags, and link previews.
+description: Hey! You came across Fernando Obregon's digital garden take a look if you're interested on technology, traveling or productivity
 page_title: "Feernandooff"
 links:
   - link_name: Instagram
