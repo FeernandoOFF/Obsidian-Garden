@@ -1,12 +1,11 @@
 ---
 draft: false
 title: "{{Title}}"
+
+date: {{date: ddd DD-MM-YYYY}}
 tags:
 - 
 ---
-
-
-{{date: ddd (DD)-MM-YYYY}}-{{time:HH:mm}}
 Status: #idea
 Tags:
 
