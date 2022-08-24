@@ -1,16 +1,20 @@
 // Replace this with your own font imports!
-@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;700&family=Inter:wght@400;600;700&family=Source+Sans+Pro:wght@400;600&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;700&family=Inter:wght@400;600;700&family=Source+Sans+Pro:wght@400;600&display=swap");
 :root {
   --font-body: "Source Sans Pro";
   --font-header: "Inter";
-  --font-mono: "Fira Code"
+  --font-mono: "Fira Code";
 }
 
 // typography
 html {
   scroll-behavior: smooth;
   &:lang(ar) {
-    & p, & h1, & h2, & h3, article {
+    & p,
+    & h1,
+    & h2,
+    & h3,
+    article {
       direction: rtl;
       text-align: right;
     }
@@ -24,7 +28,6 @@ html {
   }
 }
 
-
 body {
   margin: 0;
   height: 100vh;
@@ -32,9 +35,16 @@ body {
   max-width: 100%;
   box-sizing: border-box;
   background-color: var(--light);
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='50' height='50' viewBox='0 0 100 100'%3E%3Cg fill-rule='evenodd'%3E%3Cg fill='%234c5670' fill-opacity='0.4'%3E%3Cpath opacity='.5' d='M96 95h4v1h-4v4h-1v-4h-9v4h-1v-4h-9v4h-1v-4h-9v4h-1v-4h-9v4h-1v-4h-9v4h-1v-4h-9v4h-1v-4h-9v4h-1v-4h-9v4h-1v-4H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15v-9H0v-1h15V0h1v15h9V0h1v15h9V0h1v15h9V0h1v15h9V0h1v15h9V0h1v15h9V0h1v15h9V0h1v15h9V0h1v15h4v1h-4v9h4v1h-4v9h4v1h-4v9h4v1h-4v9h4v1h-4v9h4v1h-4v9h4v1h-4v9h4v1h-4v9zm-1 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-9-10h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm9-10v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-9-10h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm9-10v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-9-10h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm9-10v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-10 0v-9h-9v9h9zm-9-10h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9zm10 0h9v-9h-9v9z'/%3E%3Cpath d='M6 5V0H5v5H0v1h5v94h1V6h94V5H6z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
 }
 
-h1, h2, h3, h4, h5, h6, thead {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+thead {
   font-family: var(--font-header);
   color: var(--dark);
   font-weight: revert;
@@ -53,7 +63,15 @@ h1, h2, h3, h4, h5, h6, thead {
   color: var(--dark);
 }
 
-p, ul, text, a, tr, td, li, ol, ul {
+p,
+ul,
+text,
+a,
+tr,
+td,
+li,
+ol,
+ul {
   font-family: var(--font-body);
   color: var(--gray);
   fill: var(--gray);
@@ -62,7 +80,9 @@ p, ul, text, a, tr, td, li, ol, ul {
   padding: revert;
 }
 
-tbody, li, p {
+tbody,
+li,
+p {
   line-height: 1.5em;
 }
 
@@ -105,7 +125,8 @@ tbody, li, p {
     content: counter(section) "  ";
   }
 
-  & > li::marker, & > li > ol > li::marker {
+  & > li::marker,
+  & > li > ol > li::marker {
     font-family: var(--font-body);
     font-weight: 700;
   }
@@ -118,7 +139,8 @@ table {
   border-collapse: collapse;
 }
 
-td, th {
+td,
+th {
   padding: 0.2em 1em;
   border: 1px solid var(--outlinegray);
 }
@@ -135,7 +157,7 @@ p > img + em {
 }
 
 sup {
-  line-height: 0
+  line-height: 0;
 }
 
 blockquote {
@@ -169,7 +191,8 @@ blockquote {
       background-color: transparent !important;
     }
 
-    & a[href$="#"], &.active a {
+    & a[href$="#"],
+    &.active a {
       opacity: 0.2;
     }
   }
@@ -180,7 +203,7 @@ article {
     margin-top: 2em;
     font-size: 2em;
   }
-  
+
   & > .meta {
     margin: 0 0 1em 0;
     opacity: 0.7;
@@ -198,11 +221,11 @@ article {
 
       &.broken {
         opacity: 0.5;
-        background-color: transparent; 
+        background-color: transparent;
       }
     }
   }
-  
+
   & p {
     overflow-wrap: anywhere;
   }
@@ -283,8 +306,12 @@ code {
 }
 
 @keyframes fadeIn {
-  0% {opacity:0;}
-  100% {opacity:1;}
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
 }
 
 footer {
@@ -292,7 +319,7 @@ footer {
   text-align: center;
   & ul {
     padding-left: 0;
-  } 
+  }
 }
 
 hr {
@@ -328,7 +355,7 @@ hr {
         margin: 0.5em 0;
         padding: 0.25em 1em;
         border: var(--outlinegray) 1px solid;
-        border-radius: 5px
+        border-radius: 5px;
       }
     }
   }
@@ -342,7 +369,6 @@ hr {
 
     & > svg {
       margin-bottom: -5px;
-
     }
   }
 }
@@ -465,7 +491,8 @@ header {
         background: var(--light);
         outline: none;
 
-        &:hover, &:focus {
+        &:hover,
+        &:focus {
           background: rgba(180, 180, 180, 0.15);
         }
 
@@ -480,7 +507,8 @@ header {
           border-bottom: 1px solid var(--outlinegray);
         }
 
-        & > h3, & > p {
+        & > h3,
+        & > p {
           margin: 0;
         }
       }
@@ -498,7 +526,6 @@ header {
   list-style: none;
   margin-top: 2em;
   padding-left: 0;
-
 }
 
 .section-li {
@@ -506,7 +533,7 @@ header {
 
   & > .section {
     display: flex;
-    align-items: center; 
+    align-items: center;
 
     @media all and (max-width: 600px) {
       & .tags {
@@ -518,11 +545,11 @@ header {
       font-weight: 700;
       margin: 0;
     }
-    
+
     & p {
       margin: 0;
       padding-right: 1em;
-      flex-basis: 6em; 
+      flex-basis: 6em;
     }
   }
 
@@ -567,7 +594,7 @@ header {
   transition: opacity 0.2s ease, transform 0.2s ease;
   user-select: none;
   overflow-wrap: anywhere;
-  box-shadow: 6px 6px 36px 0px rgba(0,0,0,0.25);
+  box-shadow: 6px 6px 36px 0px rgba(0, 0, 0, 0.25);
 
   @media all and (max-width: 600px) {
     display: none !important;
@@ -595,9 +622,10 @@ header {
   & > p {
     margin: 0;
     padding: 0.5rem 0;
-  } 
+  }
 
-  & > p, & > a {
+  & > p,
+  & > a {
     font-size: 1rem;
     font-weight: 400;
     user-select: none;
@@ -615,4 +643,3 @@ header {
     padding: 0 1em;
   }
 }
-
