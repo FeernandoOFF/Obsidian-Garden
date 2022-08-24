@@ -29,3 +29,6 @@ One important note is that you  don't have to know [[maths]] to start creating t
 - [[Mobile development]]
 - DevOps
 - Data... thing?
+
+
+![[../Files/tech Wednesday 24-08-22.excalidraw|100%]]
