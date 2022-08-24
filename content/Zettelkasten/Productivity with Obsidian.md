@@ -22,7 +22,7 @@ Is that instead of **creating notes and forget them**, how the **knowledge keeps
 
 By implementing this methodology it will naturally grow around the [[Obsidian tags]] and when you see in the [[Obsidian graph view]] a bunch of topics related around that tag, that means that **the topic is recurrent on your second brain** this are called [[Maps of Content]]
 
-- When the [[Maps of Content]] are created we use the second Template ([[MOC]])
+- When the [[Maps of Content]] are created we use the second Template (MOC)
 	- This will work as a wrapper and remain empty or we can make an resume, index or whatever we want around that general topic
 	IE: Use [[Obsidian Excalidraw Plugin]] to create a explanation of the topic with links going to specific subjects
 

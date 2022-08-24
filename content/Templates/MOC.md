@@ -1,9 +1,9 @@
 ---
 title: "{{Title}} | Map Of Content"
+date: {{date: ddd DD-MM-YYYY}}
 tags:
 - MOC
 ---
-{{date: ddd (DD)-MM-YYYY}}-{{time:HH:mm}}
 Status: #MOC
 Tags:
 

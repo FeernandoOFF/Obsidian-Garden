@@ -1,6 +1,11 @@
- Mon (25)-07-2022-21:26
+---
+draft: false
+title: "Apple Shortcuts"
+date:  Wed 24-08-2022
+tags:
+---
 Status: #idea
-Tags:
+Tags: [tech](tech.md)
 
 # Apple Shortcuts
 
@@ -22,7 +27,7 @@ Tags:
 	| Home        | DUN 56Yd |
 	
 	Related things:
-	- [[Apple Shortcuts#Select from  dictionary]]
+		- [[Apple Shortcuts#Select from  dictionary]]
 	
 
 ## User Interface 
