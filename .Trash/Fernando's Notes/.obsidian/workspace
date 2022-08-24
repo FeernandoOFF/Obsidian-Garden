@@ -1,0 +1,136 @@
+{
+  "main": {
+    "id": "1062db55dd39fb27",
+    "type": "split",
+    "children": [
+      {
+        "id": "6dbea2189c3b51d9",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Journal/23-Aug-2022.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1755e053af65c4f1",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "fd39166b715f396a",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "e8475f43b6f2104d",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "fb78ad70456cc957",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "73aec6a80b83b998",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ]
+  },
+  "right": {
+    "id": "ab8fc6d177303b0b",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "6c52ef2f82fd6dcb",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      },
+      {
+        "id": "58362e3212725236",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Journal/23-Aug-2022.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "19262f6dc7eb82e6",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Journal/23-Aug-2022.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "aedb3f5ea1a83888",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Journal/23-Aug-2022.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "6dbea2189c3b51d9",
+  "lastOpenFiles": [
+    "Journal/31-Jul-2022.md",
+    "Journal/We-Aug-2022.md",
+    "Journal/03-Aug-2022.md",
+    "Journal/04-Aug-2022.md",
+    "Zettelkasten/Apple Ecosystem.md",
+    "Zettelkasten/Singleton.md",
+    "Journal/11-Aug-2022.md",
+    "Zettelkasten/Odyssey.md",
+    "Zettelkasten/Untitled.md",
+    "Quotes/If you only focus on connections that are already made you'll never create something new.md"
+  ]
+}
