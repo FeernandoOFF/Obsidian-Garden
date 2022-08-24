@@ -1,14 +1,16 @@
 ---
- title: History
+title: "history | Map Of Content"
+date:  Wed 24-08-2022
+tags:
+- MOC
 ---
- Fri (29)-07-2022-23:57
 Status: #MOC
 Tags:
 
 # History
-```timeline
-history
-```
+
+
+
 
 ## How I see the History?
 - Drawings
