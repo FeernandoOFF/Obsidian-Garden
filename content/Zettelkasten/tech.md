@@ -30,5 +30,4 @@ One important note is that you  don't have to know [[maths]] to start creating t
 - DevOps
 - Data... thing?
 
-
-![[../Files/tech Wednesday 24-08-22.excalidraw|100%]]
+![[Files/tech Wednesday 24-08-22.excalidraw]]

@@ -35,10 +35,9 @@ Main years of Italy:
 100BCE
 - Roman '**master of mediterranian**' 
 	- Expand themselves actoss 3 continents
-	- ![[../Files/romanEmpire.png|600]]
+	-  ![romanEmpire](Files/romanEmpire.png)
 
 
-![romanEmpire](Files/romanEmpire.png)
 
 ## Battles
 
