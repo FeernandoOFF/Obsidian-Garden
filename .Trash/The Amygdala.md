@@ -1,3 +1,0 @@
- The amygdala is a --- near to the throat and its useful because of it prevents ...
-
-Sorry this should be linked to [[The Human Body]]

@@ -1,6 +1,0 @@
----
-Note template
-----
-hola?
---- New content
-adios!
