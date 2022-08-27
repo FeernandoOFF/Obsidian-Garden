@@ -9,3 +9,6 @@ linkmap
 
 content/Journal/*
 content/Journal/
+
+.Trash/*
+.Trash/
