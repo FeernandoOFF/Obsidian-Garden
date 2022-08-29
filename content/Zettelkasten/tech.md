@@ -60,14 +60,34 @@ One important note is that you  don't have to know [[maths]] to start creating t
 >  - Electronic automation
 >  - Automation for daily life
 >  - Internet presence
->  You should have a look at [DIY in Tech](DIY%20in%20Tech)
+>  - 
+>  > You should have a look at [DIY in Tech](DIY%20in%20Tech)
 
 
-If you want to be a freelancer or get a job on tech you should start with this basic skills:
-- Terminal
-- Git
+#### Tip: Tools that you'll work with
+If you want to take it seriously you **should** start with this things
+- [[Terminal]]
+- [[Git]]
+This tools are not by themselves the actual thing that you will develop. But you'll be interacting with them most of the time and you should be comfortable using them
+
+
+### Identifying your area
+
+Areas/Process of an app development
+
+- [[Project Manager]] - Coordination and communication with clients and devs
+- [[UI/UX ]] - Work with the client to create a Interface that satisfies their needs
+- [[Frontend]] - Developer who is in charge of implement the designs and bring interaction and data
+- [[Backend]] - Developer who creates the data behind the frontend app(s) 
+- [[DevOps]] - The person who 
+- Electronics
+
+![](Files/Pasted%20image%2020220829222230.png)
+![[Dawings/tech Monday 29-08-22.excalidraw]]
+
 
 ## Areas of tech
+
 - [[Web development]]
 - [[Mobile development]]
 - [[DevOps]]
