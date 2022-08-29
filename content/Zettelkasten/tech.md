@@ -79,19 +79,18 @@ Areas/Process of an app development
 - [[UI/UX ]] - Work with the client to create a Interface that satisfies their needs
 - [[Frontend]] - Developer who is in charge of implement the designs and bring interaction and data
 - [[Backend]] - Developer who creates the data behind the frontend app(s) 
-- [[DevOps]] - The person who 
-- Electronics
+- [[DevOps]] - The person who sustains the infrastructure of both; backend and frontend. And has the ability to scale services 
+
+- Electronics - Well... very self-explanatory this works with the bearer-metal important for IoT for example
 
 ![](Files/Pasted%20image%2020220829222230.png)
 ![[Dawings/tech Monday 29-08-22.excalidraw]]
 
 
-## Areas of tech
 
-- [[Web development]]
-- [[Mobile development]]
-- [[DevOps]]
-- Data... Analysis - Machine Learning
+## How to choose yours?
+
+Well, we can divide this between interaction with people, complexity time 
 
 
 ![](Files/Pasted%20image%2020220824153914.png)
