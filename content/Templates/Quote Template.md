@@ -1,4 +1,10 @@
-{{date: ddd (DD)-MM-YYYY}}-{{time:HH:mm}}
+---
+draft: false
+title: "{{Title}}"
+publishDate: {{date: ddd DD-MM-YYYY}}
+tags: 
+- quote
+---
 Type: #quote
 Tags:
 

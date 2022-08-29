@@ -1,6 +1,13 @@
- Sat (23)-07-2022-20:33
+---
+draft: false
+title: "In life the goal is not to learn as much as possible, is to do as much as possible"
+publishDate:  Mon 29-08-2022
+tags: 
+- quote
+---
 Type: #quote
-Tags:
+Tags: [productivity](Zettelkasten/productivity.md) [[personal]]
+
 
 # In life the goal is not to learn as much as possible, is to do as much as possible
 
@@ -10,5 +17,3 @@ In life the goal is not to learn as much as possible, is to do as much as possib
 Is more doing for less studying
 ```
 
-
-## References
