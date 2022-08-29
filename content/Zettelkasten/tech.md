@@ -64,16 +64,16 @@ One important note is that you  don't have to know [[maths]] to start creating t
 >  > You should have a look at [DIY in Tech](DIY%20in%20Tech)
 
 
-#### Tip: Tools that you'll work with
+### Tip: Tools that you'll work with
 If you want to take it seriously you **should** start with this things
 - [[Terminal]]
 - [[Git]]
 This tools are not by themselves the actual thing that you will develop. But you'll be interacting with them most of the time and you should be comfortable using them
 
 
-### Identifying your area
+### Areas of Tech
 
-Areas/Process of an app development
+**Areas/Process of an app development**
 
 - [[Project Manager]] - Coordination and communication with clients and devs
 - [[UI/UX ]] - Work with the client to create a Interface that satisfies their needs
@@ -81,18 +81,21 @@ Areas/Process of an app development
 - [[Backend]] - Developer who creates the data behind the frontend app(s) 
 - [[DevOps]] - The person who sustains the infrastructure of both; backend and frontend. And has the ability to scale services 
 
-- Electronics - Well... very self-explanatory this works with the bearer-metal important for IoT for example
+- [[Electronics]] - Well... very self-explanatory this works with the bearer-metal important for IoT for example
 
 ![](Files/Pasted%20image%2020220829222230.png)
 ![[Dawings/tech Monday 29-08-22.excalidraw]]
 
 
-
-## How to choose yours?
-
-Well, we can divide this between interaction with people, complexity time 
+**We also have Machine learning and data scientists....**
 
 
+### How to choose your path?
+
+**Well, we can divide this between interaction with people, complexity time** 
+
+
+- Graph
 ![](Files/Pasted%20image%2020220824153914.png)
 
 ![[Drawings/tech Wednesday 24-08-22.excalidraw]]
