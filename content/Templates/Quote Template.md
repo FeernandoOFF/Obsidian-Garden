@@ -5,10 +5,6 @@ publishDate: {{date: ddd DD-MM-YYYY}}
 tags: 
 - quote
 ---
-Type: #quote
-Tags:
-
-# {{Title}}
 
 
 

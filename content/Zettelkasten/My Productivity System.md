@@ -9,12 +9,15 @@ My productivity system is based on the [Apple Ecosystem](Apple%20Ecosystem.md) w
 - Obsidian
 - Reminders
 - Notes
+- Google / Apple Calendar
 
 ## Methodology
 [Productivity with Obsidian](Productivity%20with%20Obsidian.md)
 
 
 ## Notes
+
+[[My obsidian note-taking system]]
 
 
 ## References
