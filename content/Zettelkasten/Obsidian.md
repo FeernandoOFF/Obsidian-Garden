@@ -24,21 +24,9 @@ Obsidian has different features such as:
 - [[Obsidian graph view]]
 - [[Obsidian tags]]
 
-## My setup
-- Plugins
-- [[Obsidian Excalidraw Plugin]]
-	- Drawing Linking
-	- Drawing Libraries
-- [[Obsidian Outliner]]
-	- Configuration
-- [[Obsidian Templater]]
-- [[Obsidian Dataview]]
 
 
-## What and how I use Obsidian for?
-- [[Obsidian as a Journal]]
 
-## How we can use obsidian?
+[How to use obsidian](https://www.youtube.com/watch?v=5qRVquqRH0k)
 
-[Note-taking system with obsidian](https://www.youtube.com/watch?v=E6ySG7xYgjY&list=WL&index=9&t=338s)
-[Obsidian Database view](https://www.youtube.com/watch?v=AhhFLXfldJQ)
+![[Zettelkasten/My obsidian setup]]

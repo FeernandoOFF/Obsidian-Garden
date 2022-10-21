@@ -27,6 +27,7 @@ It's like an [[Web domain]]; it's meant to be a **unique identifier** for your a
 - Vim Mode -> 'Editor - Vim Mode'
 - Change tabs `CMD + Shift + {/}`
 - Jump to definition `CTRL + CMD + J`
+- Quick open `Shift+ CMD + O`
 - Hover `OPT` over Apple items to get a quick reference of what something does
 
 ### Interface

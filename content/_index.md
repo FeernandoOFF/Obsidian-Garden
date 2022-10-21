@@ -8,6 +8,7 @@ Hi there, you user of the web. You just came across with my digital garden! - Hi
 If you don't know who am I, well I'm Fernando Obregon, I'm a software developer, currently living in Dublin, Ireland. You can stay and read if you're interested about [Technology](Zettelkasten/tech.md) , [History](Zettelkasten/history.md) , [Productivity](Zettelkasten/productivity.md) or [[Minimalism]]
 
 
+
 ### My goal
 
 My goal is to provide easy information for people to develop their own things (AKA [[DIY in Tech]])  so they're aware of;

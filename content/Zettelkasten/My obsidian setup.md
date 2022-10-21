@@ -23,6 +23,29 @@ tags:
 5. Sidebar L(`⌘ + ⇧ + B`) - R (`⌘ + ⇧ + X`)
 6. Highlight (`⌘ + h`)
 
+---
+## Plugins
+
+- [[Obsidian Excalidraw Plugin]]
+	- Drawing Linking
+	- Drawing Libraries
+	- Embed drawing
+- [[Obsidian Outliner]]
+	- Configuration
+- [[Obsidian Templater]]
+- [[Obsidian Dataview]]
+- [[Kindle]]
+- Admonition
+
+
+## What and how I use Obsidian for?
+- [[Obsidian as a Journal]]
+- [[second brain]]
+- [[Digital garden]] 
+- [[Zettelkasten/Productivity with Obsidian| Productivity]]
+
+
+
 
 ---
 
@@ -32,12 +55,12 @@ tags:
 - Map View
 - Callout
 
----
 
-
-### Digital garden 
 
 
 ## References
+[Note-taking system with obsidian](https://www.youtube.com/watch?v=E6ySG7xYgjY&list=WL&index=9&t=338s)
+[Obsidian Database view](https://www.youtube.com/watch?v=AhhFLXfldJQ)
+
 Inspiration 
 [[Zettelkasten/Productivity with Obsidian]]

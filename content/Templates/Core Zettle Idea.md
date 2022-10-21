@@ -6,7 +6,7 @@ lang: en
 tags:
 - idea
 ---
-
+# {{Title}}
 
 
 ## References
