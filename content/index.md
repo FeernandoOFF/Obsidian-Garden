@@ -5,7 +5,7 @@ title: 🪴 Fernandooff | Garden
 Hi there, you user of the web. You just came across with my digital garden! - Hi, I'm Fernando :) 
 
 ### Me 
-If you don't know who am I, well I'm Fernando Obregon, I'm a software developer, currently living in Dublin, Ireland. You can stay and read if you're interested about [[Zettelkasten/tech|Technology]] , [[Zettelkasten/history|History]] , [[Zettelkasten/productivity|Productivity]] or [[Zettelkasten/Minimalism|Minimalism]]
+If you don't know who am I, well I'm Fernando Obregon, I'm a software developer, currently living in Dublin, Ireland. You can stay and read if you're interested about [Technology 1](Zettelkasten/tech.md) [[Zettelkasten/tech|Technology]] , [[Zettelkasten/history|History]] , [[Zettelkasten/productivity|Productivity]] or [[Zettelkasten/Minimalism|Minimalism]]
 
 
 
