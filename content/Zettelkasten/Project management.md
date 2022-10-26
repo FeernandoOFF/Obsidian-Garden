@@ -6,9 +6,10 @@ kanban-plugin: basic
 
 ## Ideas
 
-- [ ] 💼 PROJECT - Obsidian-Astro
+- [ ] 💼 PROJECT - Obsidian-Astro - blog analysis
 - [ ] 💼 PROJECT - Portfolio
 - [ ] 🗣 TALK -  The importance of notes
+- [ ] Obsidian MDX
 
 
 ## To research

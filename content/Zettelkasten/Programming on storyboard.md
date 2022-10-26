@@ -94,6 +94,9 @@ Parts of the "view"
 
 
 
+## Cheatsheet
+- Get title from Button (`sender.currentTitle`)
+- ProgressBar (`Float(int)/Float(int)`)
 
 
 - How do we integrate with API?

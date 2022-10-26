@@ -13,18 +13,18 @@ Notion hierarchical
 - Start from the top
 
 - Page link
-[[index]]
+[[_index]]
 - Page and Title link
-[[index#My goal]]
+[[_index#My goal]]
 - Nickname
-[[index#My goal|My goal in life]]
+[[_index#My goal|My goal in life]]
 - Text specific - This will point to specific paragraph
-[[index#^535ac9|What im doing]]
+[[_index#^535ac9|What im doing]]
 
 
 ## Embedding (`!`)
 
-This is related to what I'm doing ![[index#Any news?]]
+This is related to what I'm doing ![[_index#Any news?]]
 
 ## Block quote
 

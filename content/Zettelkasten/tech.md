@@ -1,11 +1,10 @@
 ---
 title: "Tech | Map Of Content"
 publishDate:  Wed 24-08-2022
+Status: #MOC
 tags:
 - MOC
 ---
-Status: #MOC
-Tags:
 
 # Tech
 
@@ -16,22 +15,29 @@ The technology is not **just Informatics**; It's a way to simplify our lives and
 > [!quote] Technology
 >  The application of scientific knowledge for practical purposes
 
+--
 We live un a complex world where everything seems done for us; from food, communication to heating on our houses. As you can see, almost everything that simplifies our lives could be called technology. **It is all around us** 
 
+---
 
 
 ## The importance of Informatics
 
 
 In this "blog" I'll focus on informatics and a little bit of electronics, mainly because is my area (hehe) but also there're some points that make the them so interesting and so important.
+--
 
 - First and most important is that, now days **every one interacts with a computer in some way**.  And It's vital that everyone has an idea what happens underneath. 
 
+--
 - Secondly is their scalability; You can build almost whatever you want and if it results a great business Idea (See [[startups]]) you can easily scale them, Outside the Economic part it also can be shared to help other people.
 
+--
 - Accessibility related to the point that everyone interacts with a computer somehow, is easily accessible and you can start right now while you're reading this. (See [[Start with Javascript]])
 
 - And finally, **You only need your brain** to make it work!
+
+---
 
 ### Drawbacks
 
@@ -44,6 +50,7 @@ But...
 
 And you're likely to solve imaginary problems and make your life harder than initially was.
 
+---
 - Responsability / Ethics
 
 If this sounds good for you and you're interested you may say 'Okay, but **how I get started?** this seems like a big world' - The reality is that that's true, but don't worry... Yet 

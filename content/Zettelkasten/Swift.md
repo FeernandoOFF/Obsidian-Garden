@@ -129,6 +129,25 @@ switch var{
 
 
 
+### Structures
+Help us to create custom `Data-Types` - Kind of [[Javascript Classes]]
+```swift
+struct Person {
+	// Property
+	let name = "Fernando"
+	let age = 19
+
+	// Constructor
+	init(){
+	}
+
+	// Method
+	func greetings(){
+	}
+}
+
+```
+
 ## Shortcuts
 Timer
 ```swift
