@@ -2,7 +2,6 @@
 ---
 draft: false
 title: The most important language that you will ever learn
-url: https://www.youtube.com/watch?v=488ZBeaGo6s&list=PLhsryCgx-nexJOjGNsXLbv1gFjj2AIxEj
 publishDate: 23-10-2022
 lang: en
 tags:
