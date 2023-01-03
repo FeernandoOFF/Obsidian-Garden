@@ -1,0 +1,38 @@
+---
+draft: false
+title: 06-Dec-2022
+type: place
+publishDate: 06-12-2022
+fc-calendar: Obsidian Calendar
+fc-date: 06-Dec-2022
+fc-category: Note
+lang: en
+tags:
+- personal/places/todo
+---
+
+
+# <% tp.file.title %>
+
+
+## General info
+##### Capital:
+##### Population:
+##### History: 
+##### Currency: 
+##### Language: 
+
+
+ <% tp.file.cursor() %>
+
+## Places
+
+## Data
+
+## Language Vocabulary
+
+ 
+## Experiences
+
+
+## References

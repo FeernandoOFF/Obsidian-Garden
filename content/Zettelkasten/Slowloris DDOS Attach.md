@@ -3,12 +3,9 @@ draft: false
 title: "Slowloris DDOS Attach"
 publishDate:  Sat 03-09-2022
 tags:
-- Web security
-- tech
+- core-topics/tech/web-security
 - todo
 ---
-Status: #idea
-Tags: [[web security]]
 
 # Slowloris DDOS Attach
 

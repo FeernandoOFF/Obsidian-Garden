@@ -4,10 +4,9 @@ title: "Web development"
 
 date:  Wed 24-08-2022
 tags:
-- web development
+- core-topics/tech/web-development
+- PreMoc/WebDevelopment
 ---
-Status: #idea
-Tags: [tech](tech.md)
 
 # Web development
 

@@ -1,6 +1,12 @@
- Fri (29)-07-2022-11:37
-Status: #idea
-Tags:
+---
+draft: false
+title: My IPhone Configuration
+publishDate: 29-07-2022
+lang: en
+tags:
+- core-topics/tech/apple
+- productivity 
+---
 
 # My IPhone Configuration
 

@@ -3,7 +3,7 @@ title: "Programming classes | Map Of Content"
 publishDate: 24-10-2022
 lang: en
 tags:
-- MOC
+- PreMoc/Teacher
 ---
 
 

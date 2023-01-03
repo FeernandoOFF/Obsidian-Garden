@@ -1,6 +1,11 @@
- Sun (24)-07-2022-22:17
-Status: #idea
-Tags: [[English]]
+---
+draft: false
+title: Collocations
+publishDate: 28-10-2022
+lang: en
+tags:
+- core-topics/languages/english
+---
 
 # Collocations
 > [!note]

@@ -1,6 +1,19 @@
- Sun (24)-07-2022-21:25
-Status: #idea
-Tags: [[English]]
+---
+draft: false
+title: Parts of Speech
+publishDate: 24-07-2022
+lang: en
+tags:
+- core-topics/languages/english
+---
+
+# Parts of Speech
+
+
+
+
+## References
+ 
 
 # Parts of Speech
 

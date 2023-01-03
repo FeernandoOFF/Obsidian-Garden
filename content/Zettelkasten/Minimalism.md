@@ -2,11 +2,8 @@
 title: "Minimalism | Map Of Content"
 publishDate:  Sun 04-09-2022
 tags:
-- MOC
-- minimalism
+- PreMoc/Minimalism
 ---
-Status: #MOC
-Tags:
 
 - Live a life with purpose
 - Keep using technology but without the distraction

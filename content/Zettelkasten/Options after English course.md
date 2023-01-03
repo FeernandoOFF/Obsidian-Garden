@@ -1,10 +1,11 @@
 ---
 draft: true
+type: idea
 title: Options after English course
 publishDate: 23-10-2022
 lang: en
 tags:
-- idea
+- personal/plans
 ---
 
 # Options after English course

@@ -1,10 +1,9 @@
 ---
 locations: 
-tags: [timeline,history, europe]
+publishDate:  30-07-2022
+tags: 
+- core-topics/history/europe
 ---
-Sat (30)-07-2022-00:10
-Status: #idea
-Tags: [[history]] [[europe]]
 
 <span 
 	  class='ob-timelines' 

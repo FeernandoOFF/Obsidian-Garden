@@ -1,10 +1,11 @@
 ---
 draft: false
 title: <% tp.file.title %>
+type: note
 publishDate: <%  tp.date.now("DD-MM-YYYY") %>
 lang: en
 tags:
-- idea
+- todo
 ---
 
 # <% tp.file.title %>

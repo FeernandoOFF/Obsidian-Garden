@@ -5,6 +5,7 @@ publishDate:  Fri 21-10-2022
 author: Tiago Forte
 tags: 
 - quote
+- productivity/note-taking
 ---
 
 

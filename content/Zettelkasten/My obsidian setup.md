@@ -3,12 +3,22 @@ draft: false
 title: "My obsidian note-taking system"
 publishDate:  06-10-2022
 tags:
-- idea
-- productivity
+- productivity/note-taking
+- content/ideas
 ---
 # My obsidian note-taking system
 
----
+## Philosophy 
+Create notes based on knowledge,content, daily notes and travel
+
+
+### Maps - Travel
+### Drawings - History
+### Diagrams - Books
+### Tags
+### Siri shortcuts
+
+
 ## Obsidian controls
 
 1. Search/Create notes (`⌘ + p`)
@@ -40,11 +50,21 @@ tags:
 - Admonition
 
 
+## How do I use obsidian?
+### Metadata
+- Personal
+- Draft
+- Published
+- Type
+
+
 ## What and how I use Obsidian for?
 - [[Obsidian as a Journal]]
 - [[second brain]]
 - [[Digital garden]] 
 - [[Zettelkasten/Productivity with Obsidian| Productivity]]
+- [[Obsidian for book summary]]
+
 
 - Quick note capture
 - Daily Notes 
@@ -60,7 +80,8 @@ tags:
 - Kindle - Reader (insta paper)
 - Knowledge Explore
 - Visual notes
-- Audo note
+- Audio note
+- [[Obsidian Diagrams]]
 
 Excalibrain?? Explore
 
@@ -76,8 +97,6 @@ Why do we stop taking notes when leaving school?
 ### Useful commands
 - Map View
 - Callout
-
-
 
 
 ## References

@@ -4,7 +4,7 @@ title: Ireland Experience
 publishDate: 26-10-2022
 lang: en
 tags:
-- idea
+- personal/experiences
 ---
 
 # Ireland Experience
@@ -14,7 +14,7 @@ Many think that live abroad (specially coming from a latinoamerican perspective 
 
 
 The first time that I've heard about Ireland and the opportunities that offers, was In January of 2022 (Wow now I remembered that in 2012 was "The end of the world" ) when I was researching about English courses in Canada, at the moment the COVID was still a problem 
-the 18th of March, looking for an improvement of my profesional career and a new challenge for me - I wanted to see how much I was capable of in another country. 
+the 18th of March, looking for an improvement of my profesional career and a new challenge for me - I wanted to see how much I was capable of in another country.  #todo
 
 
 ## References

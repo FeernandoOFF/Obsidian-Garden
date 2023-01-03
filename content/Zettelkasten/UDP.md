@@ -3,12 +3,9 @@ draft: false
 title: "UDP"
 publishDate:  Sat 03-09-2022
 tags:
-- protocols
-- tech
-- basics
+- core-topics/tech/fundamentals/protocols
+- todo
 ---
-Status: #idea
-Tags: [[tech]]
 
 # UDP
 UDP is a [protocol](Zettelkasten/protocol.md) that "one way model" 

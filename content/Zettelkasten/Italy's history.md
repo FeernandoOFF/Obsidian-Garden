@@ -1,12 +1,11 @@
 ---
 title:  "Italy's history"
+publishDate: 04-08-2022
 tags:
-- history
+- core-topics/history/europe
 ---
 
-Thu (04)-08-2022-20:51
-Status: #idea
-Tags: [[history]]
+
 
 # Italy's history
 

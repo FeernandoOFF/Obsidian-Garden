@@ -1,6 +1,8 @@
 ---
 date: 23-07-2022
-tags: idea,productity,personal
+tags: 
+- personal
+- productivity 
 ---
 
 # My Productivity System

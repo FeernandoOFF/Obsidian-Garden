@@ -4,9 +4,7 @@ title: "Programming on storyboard"
 publishDate:  Tue 11-10-2022
 lang: en
 tags:
-- idea
-- ios
-- storyboard
+- core-topics/tech/apple
 ---
 # Programming on storyboard
 
@@ -93,8 +91,55 @@ Parts of the "view"
 	- Stack views are like flex containers in which you can assign directions and spicing 
 
 
+## Multi-page Apps
+
+You can **create a new** -- viewController
+
+- Cocoa touch
+	- Bind controllers to a view
+		- Click **yellow dot** and in **identity** select the **class**
+		
+#### Multi-page Navigation
+
+Start by pressing `opt` and **dragging** to the view that you want to go, this will create a **link** between pages, here you'll need to set an **identifier** for the navigate action (kind of naming a route or an action)
+
+When you want to **navigate programatically** from one view to another you can do:
+```swift
+self.performSegue(withIdentifier:`yourID`,sender:self)
+```
+
+But what if I want to send **custom data** to the new view? Well, you can use the next snippet: 
+```swift
+override func prepare(for segue: UIStoryboardSegue, sender: Any?)
+{
+		// Your navigation **identifier **
+    if segue.identifier == "navigateToDetails"
+    {
+        let controller = (segue.destination as! PAGEViewController)
+        controller.customProperty = "Test..."
+    }
+}
+```
+
+What if I want **go back**?
+```swift
+self.dismiss
+```
 
 ## Cheatsheet
+ - Present viewController
+```swift
+let viewController = ViewController
+viewController.PROPERTY = "pass your custom property to the view"
+self.present(viewController)
+```
+
+- Position custom elements
+```swift
+        let label = UILabel()
+        label.text  = "Text"
+        label.frame = CGRect(x: 0, y: 0, width: 100, height: 50)
+```
 - Get title from Button (`sender.currentTitle`)
 - ProgressBar (`Float(int)/Float(int)`)
 

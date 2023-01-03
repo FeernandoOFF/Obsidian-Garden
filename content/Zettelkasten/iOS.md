@@ -3,8 +3,8 @@ title: "iOS | Map Of Content"
 publishDate:  Thu 06-10-2022
 lang: es
 tags:
-- MOC
-- tech
+- PreMoc/ios
+- core-topics/tech/apple
 ---
 
 ## Porqué?

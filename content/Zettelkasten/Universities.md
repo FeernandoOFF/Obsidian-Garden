@@ -4,16 +4,10 @@ title: Universities
 publishDate: 23-10-2022
 lang: en
 tags:
-- idea
+- personal/plans
 ---
 
 # Universities
-```button
-name Add school
-type append text
-action #### [School]()  Price:  Subjects:
-```
-^button-iwx9
 
 
 [Irish inmigration rules](https://www.citizensinformation.ie/en/moving_country/moving_to_ireland/studying_in_ireland/immigration_nonEEA_students.html)

@@ -1,0 +1,50 @@
+This is a Document Hola mundo!
+
+## Heyy
+
+Nebo Documents are designed for structured, text-led note-taking.
+
+Let's try writing. Complete this sentence (and follow the lines - it enhances the recognition):
+
+The  best way  m ost
+
+The field that displays above your writing is the conversion preview.
+It shows how Nebo interprets your handwriting and can be switched off via … menu.
+
+Convert the above sentence to typed text by double-tapping it with your finger.
+
+Erase or edit content using your pen:
+
+Try it:
+
+Scratch me out to erase me.
+
+The Nebo Document automatically sorts your writing into text blocks. Tap a text block with your finger, then move or resize it.
+
+I'm a little text block,
+short and stout.
+Tap me, move me,
+stretch me out!
+
+Let's do more with this block ⬆️. Tap to select it again.
+
+Now try the following:
+- Tap ¶ to insert a title or a list.
+- Tap the text block a second time for inline editing.
+- Now long press on some text with your finger to display the menu and change the formatting.
+
+Finally, check off the completed items on this list:
+☐ Write in a Nebo Document
+☐ Convert your handwriting
+☐ Edit using pen gestures
+☐ Reformat from the edit menu
+☐ Create a title
+☐ Move and resize a text block
+☐ Check out the Nebo Note quickstart guide
+
+Want more tips and info?
+Access the Help menu via the sidebar for video tutorials and a link to the Nebo knowledge base.
+
+Enjoy Nebo💙
+
+Esto es una nota a computadora! WTF is this??

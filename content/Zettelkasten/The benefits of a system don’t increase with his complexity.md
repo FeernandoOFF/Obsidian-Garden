@@ -4,9 +4,8 @@ title: "The benefits of a system don’t increase with his complexity"
 publishDate:  Mon 29-08-2022
 tags: 
 - quote
+- productivity
 ---
-Type: #quote
-Tags: [productivity](Zettelkasten/productivity.md)
 
 # The benefits of a system don’t increase with his complexity
 

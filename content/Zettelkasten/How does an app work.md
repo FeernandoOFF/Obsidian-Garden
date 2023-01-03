@@ -3,9 +3,7 @@ draft: false
 title: "How does an app work"
 publishDate:  Thu 06-10-2022
 tags:
-- idea
-- tech
-- ios
+- core-topics/tech
 ---
 
 

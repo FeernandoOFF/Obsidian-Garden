@@ -3,10 +3,8 @@ draft: false
 title: "friends"
 publishDate:  Sat 10-09-2022
 tags:
-- social
+- core-topics/social
 ---
-Status: #idea
-Tags: #social
 
 # Friends
 ## Why?
@@ -31,7 +29,6 @@ If **[[central people]]** disappear from your life this can private you with may
 
 ## [How to make friends](Zettelkasten/How%20to%20make%20friends.md)
 
-## [How to make friends](Zettelkasten/How%20to%20make%20friends.md)
 
 ## References
 

@@ -1,6 +1,12 @@
- Sat (23)-07-2022-20:12
-Type: #quote
-Tags:
+---
+draft: false
+title: "Theres no such thing as Diciplines. Everything is the Universe"
+publishDate: 23-07-2022
+author: 
+tags: 
+- quote
+- core-topics/philosophy
+---
 
 # There's no such thing as Disciplines. Everything is the Universe
 

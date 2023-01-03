@@ -4,9 +4,7 @@ title: "XCode"
 publishDate:  Fri 07-10-2022
 lang: en
 tags:
-- idea
-- tech
-- ios
+- core-topics/tech/apple
 ---
 
 # XCode
@@ -29,6 +27,9 @@ It's like an [[Web domain]]; it's meant to be a **unique identifier** for your a
 - Jump to definition `CTRL + CMD + J`
 - Quick open `Shift+ CMD + O`
 - Hover `OPT` over Apple items to get a quick reference of what something does
+- Format `ctrl + I`
+- Auto create [[Closure ]] `ctrl + enter`
+- Parameter options `opt + click`
 
 ### Interface
 ![[Files/Screenshot 2022-10-07 at 22.45.56.png|700]]
@@ -58,9 +59,30 @@ There are two ways that you can run an app:
 	- Connect your device -> 'Trust' -> Allow from this developer
 
 
+### Project assets
+
+- Custom Colors
+	- `Assets.xcode`
+	- Add **New color set** 
+	- Appearances (Light and dark)
+	- Set name
+ - SVG Background
+	- `Assets`
+	- Resize **Preserve Vector Data**
+	- Scales: **Single scale**
+	- Appearances: **Any, light & dark**
+
+- Dark mode
+	- Darkmode Docs
+	- Label color 
+	- System Colors
 
 
-
-
-
+### Extra
+- Create marks
+	- `//MARK: - SECTION THAT YOU WANT`
+	- snippets
+		- right click `turn into snippet`
+		- placeholder `<#Section Heading#>`
+		- Completion `text to write`
 ## References

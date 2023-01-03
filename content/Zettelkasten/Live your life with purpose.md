@@ -3,7 +3,7 @@ draft: false
 title: "Live your life with purpose"
 publishDate:  Sat 10-09-2022
 tags:
-- idea
+- personal/health
 ---
 
 # Live your life with purpose

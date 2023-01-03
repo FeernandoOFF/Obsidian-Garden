@@ -1,22 +1,49 @@
 ---
-bookStatus: started
+draft: false
+title: <% tp.file.title %>
+type: book
+fc-calendar: Obsidian Calendar
+fc-date: <% tp.date.now("DD-MMM-YYYY") %>
+started-date: <% tp.date.now("DD-MMM-YYYY") %>
+fc-category: Books
+lang: en
+tags:
+- consumption/book
 ---
 
-  ![]({{bookImageUrl}})
-# {{title}}
-## Metadata
 
-{% if authorUrl %}
-* Author: [{{author}}]({{authorUrl}})
-{%  elif author %}
-* Author [[{{author}}]]
-{%  endif %}
-{%  if pages%} *Pages {{pages}} {%  endif  %}
-{%  if url %} *[Reference]({{url}}) {%  endif  %}
+# <% tp.file.title %>
+
+  
+## Book summary
 
 
-## Highlights
-----
+## Why? How do I benefit my self with this book?
+
+<% tp.file.cursor() %>
+
+## Action list
 
 
-{{highlights}}
+## Book sections
+
+
+### Section 1
+#### Highlights:
+- 
+
+#### Summary:
+
+
+### Section 2
+#### Highlights:
+- 
+
+#### Summary:
+
+
+
+
+## References
+
+#### Kindle reference:  

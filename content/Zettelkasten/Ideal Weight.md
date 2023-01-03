@@ -2,9 +2,8 @@
 draft: true
 title: "Ideal Weight"
 tags:
+- personal/health
 ---
-Status: #idea
-Tags:
 
 # Ideal Weight
 

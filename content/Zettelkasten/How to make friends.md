@@ -3,11 +3,8 @@ draft: false
 title: "how to make friends"
 publishDate:  Sat 10-09-2022
 tags:
-- idea
-- social
+- core-topics/social
 ---
-status: #idea 
-tags: #social
 
 
 # How to make friends
@@ -16,7 +13,7 @@ A friendship can develop weeks after you meet someone but takes a few months to 
 
 - Acts of kindness (Our ancestors)
 - [[Time ]]
-- [Define with kind of person you're](Zettelkasten/Define%20with%20kind%20of%20person%20you're.md)
+- [Define which kind of person you're](Zettelkasten/Define%20which%20kind%20of%20person%20you're.md)
 - Places to be (AKA Hobbies)
 	- Not everybody can make friends at a bar or football game, park,
 - Man form friendships around shared activities

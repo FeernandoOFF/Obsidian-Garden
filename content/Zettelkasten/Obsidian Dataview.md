@@ -5,7 +5,7 @@ title: "Obsidian Dataview"
 publishDate:  Thu 20-10-2022
 lang: en
 tags:
-- idea
+- productivity/obsidian
 ---
 # Obsidian Dataview
 

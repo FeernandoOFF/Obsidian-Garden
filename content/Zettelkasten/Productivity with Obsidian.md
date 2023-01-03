@@ -1,9 +1,13 @@
 ---
+draft: false
 title: Productivity with Obsidian
+publishDate: 23-07-2022
+lang: en
+tags:
+- productivity
+- productivity/obsidian
+- content/ideas
 ---
- Sat (23)-07-2022-18:59
-Status: #idea
-Tags: [[productivity]] [[second brain]]
 
 # Productivity with Obsidian
 

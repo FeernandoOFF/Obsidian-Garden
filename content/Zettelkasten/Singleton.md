@@ -1,7 +1,13 @@
- Mon (15)-08-2022-23:07
-Status: #idea
-Tags: [[programming]] [[tech]] [[system-design]]
+---
+draft: false
+title: Singleton
+publishDate: 15-08-2022
+lang: en
+tags:
+- core-topics/tech/fundamentals/design-patterns
+---
 
+[[Zettelkasten/Design Pattern]]
 # Singleton
 The singleton pattern is part of the [[SOLID]] standard and it means that only **one instance of a class should be created and used across the app**
 

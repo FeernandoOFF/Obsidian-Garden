@@ -5,7 +5,7 @@ title: The most important language that you will ever learn
 publishDate: 23-10-2022
 lang: en
 tags:
-- idea
+- personal/growth
 ---
 
 # The most important language that you will ever learn
@@ -23,7 +23,7 @@ Exclusion if you don't speak the same language
 Universal Language: 
 - Laughter - (Comedy)
 - Music - (Music)
-- Experience
+- Experience - [[Las bananas son muy buenas para la memoria, ayer mi esposa me metió una por el culo y jamás se me olvidará]]
 
 The more languages we speak the more we can learn
 

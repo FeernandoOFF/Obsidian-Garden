@@ -4,17 +4,19 @@ title: "T Knowledge"
 publishDate:  Thu 20-10-2022
 lang: en
 tags:
-- idea
+- personal/growth
 - todo
+- review
 ---
 
 
 La forma en la que aprendemos
 
-- Incompetencia inconsciente 
-- Incompetencia consciente
+- Incompetencia ==inconsciente== 
+- Incompetencia ==consciente==
 - Competencia consciente
 - Competencia inconsciente 
+<!--SR:!2023-02-26,57,290-->
 
 
 ## Types of persons

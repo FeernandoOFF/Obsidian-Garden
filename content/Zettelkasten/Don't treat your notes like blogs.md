@@ -4,7 +4,7 @@ title: Don't treat your notes like blogs
 publishDate: 23-10-2022
 lang: en
 tags:
-- idea
+- productivity/note-taking
 ---
 
 # Don't treat your notes like blogs

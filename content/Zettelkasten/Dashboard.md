@@ -4,7 +4,7 @@ title: "Dashboard"
 publishDate:  22-10-2022
 lang: en
 tags:
-- admin
+- management/dashboard
 ---
 # Dashboard
 
@@ -44,9 +44,9 @@ renderHeatmapCalendar(this.container, calendarData)
 
 ## Projects 
 
-![[Zettelkasten/Project management]]
+![[Project Management (Dashboard)]]
 
 
 ## Books 
 
-![[Zettelkasten/Bookshelve]]
+![[Bookshelf]]

@@ -3,11 +3,9 @@ draft: false
 title: "Why we don't have friends"
 publishDate:  Sat 10-09-2022
 tags:
-- idea
-- social
+- core-topics/social
+- todo
 ---
-status: #idea 
-tags: #social 
 
 
 # Why we don't have friends

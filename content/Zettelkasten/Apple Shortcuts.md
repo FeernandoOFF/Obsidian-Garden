@@ -3,9 +3,8 @@ draft: false
 title: "Apple Shortcuts"
 date:  Wed 24-08-2022
 tags:
+- core-topics/tech/apple
 ---
-Status: #idea
-Tags: [tech](tech.md)
 
 # Apple Shortcuts
 

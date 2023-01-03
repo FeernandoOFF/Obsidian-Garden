@@ -1,8 +1,19 @@
-Sat (23)-07-2022-19:19
-Status: #idea #todo
-Tags: [productivity](productivity.md) [second brain](second%20brain) 
+---
+draft: false
+title: Note taking Archetypes
+publishDate: 23-07-2022
+lang: en
+tags:
+- productivity/note-taking
+---
 
 # Note taking Archetypes
+
+
+
+
+## References
+
 In this video [[Tiago Forte]] he explains that there are 3 types of Note taking Archetypes which are:
 
 ## Architect

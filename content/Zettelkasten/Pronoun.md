@@ -1,6 +1,11 @@
- Sun (24)-07-2022-22:10
-Status: #idea
-Tags: [[English]]
+---
+draft: false
+title: Pronoun
+publishDate: 24-07-2022
+lang: en
+tags:
+- core-topics/languages/english
+---
 
 # Pronoun
 > [!note]

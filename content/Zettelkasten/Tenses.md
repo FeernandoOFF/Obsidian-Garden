@@ -1,6 +1,12 @@
- Sun (24)-07-2022-22:39
-Status: #idea
-Tags: [[English]]
+---
+draft: false
+title: Tenses
+publishDate: 24-07-2022
+lang: en
+tags:
+- core-topics/languages/english
+---
+ 
 
 # Tenses
 > [!note]

@@ -2,6 +2,7 @@
 title: "<% tp.file.title %> | Map Of Content"
 publishDate: <%  tp.date.now("DD-MM-YYYY") %>
 lang: en
+type: moc 
 tags:
 - MOC
 ---

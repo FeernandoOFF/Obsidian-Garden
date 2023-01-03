@@ -3,12 +3,9 @@ draft: false
 title: "Http"
 publishDate:  Sat 03-09-2022
 tags: 
-- tech
-- protocols
+- core-topics/tech/fundamentals/protocols
 - todo
 ---
-Status: #idea
-Tags: [[tech]]
 
 # HTTP
 Http stands for (Hypertext transfer [[protocol]]) which is the language for the [[web]]

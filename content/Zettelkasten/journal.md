@@ -2,10 +2,8 @@
 title: "journal | Map Of Content"
 date:  Wed 24-08-2022
 tags:
-- MOC
+- PreMoc
 ---
-Status: #MOC
-Tags:
 
 # Journal
 

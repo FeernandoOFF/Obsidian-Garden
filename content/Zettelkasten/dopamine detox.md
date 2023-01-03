@@ -4,8 +4,8 @@ title: "dopamine detox"
 publishDate:  Thu 20-10-2022
 lang: en
 tags:
-- idea
 - productivity
+- personal/health
 ---
 
 | Fernando_\_ | Obregon | Fernandez |
