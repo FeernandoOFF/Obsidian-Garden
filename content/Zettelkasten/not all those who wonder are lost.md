@@ -1,6 +1,7 @@
 ---
 draft: false
-title: not all those who wonder are lost publishDate: 28-08-2022
+title: not all those who wonder are lost 
+publishDate: 28-08-2022
 lang: en
 tags:
 - quote
